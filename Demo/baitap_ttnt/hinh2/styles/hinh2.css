@@ -1,0 +1,29 @@
+
+#Website{
+    background-color: pink;
+    text-align: center;
+    height: 50px;
+    margin:0px;
+    padding:0px
+}
+#Danhsach{
+    margin: 0px;
+    padding:0px
+}
+#ul1{
+    background-color: blueviolet;
+    list-style-type: none;
+    float:left;
+    padding: 0;
+    width:100%;
+    margin:0%;
+}
+li{
+    color: white;
+    float:left;
+    margin: 10px;
+}
+.Congnghe{
+    /* text-indent: 5px; */
+    padding: 5px;
+}

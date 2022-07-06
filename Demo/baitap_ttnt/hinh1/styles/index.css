@@ -1,0 +1,57 @@
+#đo{
+    background-color: brown;
+    width: 150px;
+    height: 100px;
+}
+#cam{
+    background-color: orange;
+    width: 150px;
+    height: 190px;
+}
+#xanh1{
+    background-color: aquamarine;
+    width: 240px;
+    height: 100px;
+    margin-right: 10px;
+}
+#xanh2{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+}
+#nau{
+    background-color: darksalmon;
+    width: 350px;
+    height: 190px;
+}
+#xanh3{
+    background-color: deepskyblue;
+    width: 100px;
+    height:305px;
+}
+#xanh4{
+    background-color: darkblue;
+    height:305px;
+    width: 200px;
+}
+#xanh5{
+    background-color: cyan;
+    width: 20px;
+    height: 305px;
+}
+.div1{
+    float: left;
+    margin: 10px;
+}
+.xanh12{
+    float:left
+}
+.cha{
+    padding: 10px;
+    display: inline-block;
+    background-color: dimgray;
+}
+.div2{
+    margin-bottom: 10px ;
+    display: inline-block;
+}
